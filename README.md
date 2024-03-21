@@ -38,10 +38,10 @@
 ![Static Badge](https://img.shields.io/badge/intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=22ABF3)
 
 
-
+/*
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link={https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})]({https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) */
 
 
 </div>
