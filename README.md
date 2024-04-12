@@ -44,7 +44,6 @@
 
 
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link={https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})]({https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})
-
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
