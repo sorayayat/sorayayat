@@ -40,7 +40,7 @@
 ![Static Badge](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3)
 ![Static Badge](https://img.shields.io/badge/intellij-%23000000?style=for-the-badge&logo=intellijidea&logoColor=22ABF3)
-
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link={https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})]({https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})
