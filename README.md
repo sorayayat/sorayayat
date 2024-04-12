@@ -8,6 +8,10 @@
 상상을 현실로 만들 수 있는 백엔드 엔지니어가 되고자 합니다.
 열심히 쌓아 올린 지식으로 더 높은 곳에서 더 멀리보는 개발자가 되기 위해 노력 중 입니다.
 
+
+<br>
+<br>
+
 ## 🕹️ Skills
 
 ![python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&color=%233776AB)
