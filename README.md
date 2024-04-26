@@ -1,10 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20✌️&fontSize=90)
 
-<div align="center">
 
 <h2> 👋 Hi, I'm sora</h2>
-
+안녕하세요. 매일을 성장중인 배소라입니다.
+Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역량을 길렀습니다.
 
 <br>
 <br>
@@ -26,12 +26,12 @@
 
 
 
-## Studying & Used
+## 📚Studying & Used
 
 ![Static Badge](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### Tools
+### 🛠️Tools
 
 ![Static Badge](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,4 +43,19 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link={https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})]({https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-</div>
+
+## 📍PROJECTS
+
+### 전지적 개발자 시점
+
+> 개발자를 희망하는 취준생을 위한 웹 서비스 
+>
+>  개요 : AI를 활용하여 취업에 필요한 공고 추천, 이력서 초안 작성, 자소서 첨삭, 면접 준비를 지원합니다.
+>
+> - 기간 : 
+> - 역할 :
+> - 사용 요소 :
+> - 세부 내용 :
+
+
+
