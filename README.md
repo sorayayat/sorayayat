@@ -77,4 +77,4 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 >   - H.W : raspberryPI, PI cam, USB Drive
 >   - S.W : v4l2/RTSP(openSSL), apache2(PHP,FTP)
 >   -  Android SW Lib : lib VLC
-> - 세부 내용 : [블랙박스](https://github.com/sorayayat/raspberryPI)
+> - 세부 내용 : [블랙박스](https://github.com/heoap9/BlackBoxApplication?tab=readme-ov-file)
