@@ -65,4 +65,22 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 > - 세부 내용 : [전지적 개발자 시점](https://github.com/sorayayat/AHI-project)
 
 
+<br>
+<br>
 
+### 라즈베리 파이 블랙박스 with 안드로이드앱
+
+> 라즈베리 파이를 블랙박스로 구성, 안드로이드 앱과 연동
+>
+>  개요 : 라즈베리 파이 블랙박스를 안드로이드 앱을 사용하여 영상 스트림 및 저장 기능을 제공합니다.
+
+
+> - 기간 : 2023.09 - 2023.10 (3주)
+> - 역할 : usb 마운트, 스트리밍
+> - 사용 요소 :
+>   - **Language** : python, java, js
+>   - **Tool** : vsCode, intelliJ  
+>   - **FreamWork** : spring boot, React  
+>   - **DB** : mySQL, chromaDB, mongoDB
+>   - **etc** : aws, linox, notion 
+> - 세부 내용 : [블랙박스]()
