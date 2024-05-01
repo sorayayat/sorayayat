@@ -26,12 +26,12 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 
 
 
-## 📚Studying & Used
+## 📚 Studying & Used
 
 ![Static Badge](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### 🛠️Tools
+### 🛠️ Tools
 
 ![Static Badge](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,6 +43,9 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link={https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})]({https://www.notion.so/ddd348e6728e4080bed75ac5fd422838})
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
+<br>
+<br>
+<br>
 
 ## 📍PROJECTS
 
@@ -73,8 +76,28 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 > - 기간 : 2023.09 - 2023.10 (3주)
 > - 역할 : usb 마운트, 스트리밍
 > - 사용 요소 :
->   - Language : C , java
->   - H.W : raspberryPI, PI cam, USB Drive
->   - S.W : v4l2/RTSP(openSSL), apache2(PHP,FTP)
->   -  Android SW Lib : lib VLC
+>   - **Language** : C , java
+>   - **H.W** : raspberryPI, PI cam, USB Drive
+>   - **S.W** : v4l2/RTSP(openSSL), apache2(PHP,FTP)
+>   -  **Android SW Lib** : lib VLC
 > - 세부 내용 : [블랙박스](https://github.com/heoap9/BlackBoxApplication?tab=readme-ov-file)
+
+<br>
+<br>
+
+
+### 안면 인식 출입 통제 시스템 - toy project
+
+> AI 모델을 사용하여 얼굴 정보를 분석 출입을 통제합니다.
+>
+>  개요 : 건물, 학교 등 출입 관리가 필요한 곳에 학생증, 사원증이 없이 출입을 관리 할 수 있습니다.
+> - 기간 : 2023.12.12 - 2023.12.15 (3일간) 
+> - 사용 요소 :
+>   - **Language** : Python
+>   - **Tool** : vsCode  
+>   - **FreamWork** : Fast API  
+>   - **DB** : sqlAlchemy
+> - 세부 내용 : [miniproject](https://github.com/sorayayat/miniproject)
+
+<br>
+<br>
