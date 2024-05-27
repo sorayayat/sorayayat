@@ -29,7 +29,7 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 ## 📚 Studying & Used
 
 ![Static Badge](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![blog](https://github.com/sorayayat/blog)
 
 ### 🛠️ Tools
 
