@@ -62,7 +62,7 @@ Iot 사물인터넷 과정과 AI를 활용한 부트캠프를 수료하여 역�
 >   - **FreamWork** : spring boot, React  
 >   - **DB** : mySQL, chromaDB, mongoDB
 >   - **etc** : aws, linox, notion 
-> - 세부 내용 : [전지적 개발자 시점](https://github.com/sorayayat/AHI-project](https://github.com/sorayayat/A-HI_project)
+> - 세부 내용 : [전지적 개발자 시점](https://github.com/sorayayat/A-HI_project)
 
 
 <br>
